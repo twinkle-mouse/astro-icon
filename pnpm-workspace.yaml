@@ -1,3 +1,8 @@
 packages:
   - "packages/*"
   - "demo"
+allowBuilds:
+  esbuild: true
+  sharp: true
+minimumReleaseAgeExclude:
+  - '@iconify/json@2.2.495'

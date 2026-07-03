@@ -5,7 +5,7 @@ import etag from "etag";
 const packAliases = new Map([
   ["logo", "fa-brands"],
   ["radix", "radix-icons"],
-]);
+]); 
 
 const handler: VercelApiHandler = async (req, res) => {
   const reqOrigin = req.headers["origin"];

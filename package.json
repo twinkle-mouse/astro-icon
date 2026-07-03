@@ -19,7 +19,6 @@
     "url": "https://github.com/natemoo-re/astro-icon/issues"
   },
   "homepage": "https://github.com/natemoo-re/astro-icon#readme",
-  "packageManager": "pnpm@8.11.0",
   "dependencies": {
     "@changesets/changelog-github": "^0.4.2",
     "@changesets/cli": "^2.18.1"
